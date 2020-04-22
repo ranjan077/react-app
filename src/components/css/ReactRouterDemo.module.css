@@ -1,0 +1,11 @@
+.nav-container {
+    height: 40px;
+    background-color: grey;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-container  div {
+    cursor: pointer;
+}
